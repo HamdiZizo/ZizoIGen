@@ -1,0 +1,6 @@
+{
+  "name": "Zizo IGen",
+  "description": "Generate unique, high-quality images using the Google Gemini API. Provide a main idea, choose from several artistic direction options, and the app will generate, display, and keep a history of your creations for the current session.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
